@@ -22,6 +22,9 @@ The footer class extends React component and it will insert a footer into the DO
 #### Running the app
 * `npm install`
 * `npm start`
+
+### UML
+![UML]("./lab-26-UML.PNG")
   
 
 
